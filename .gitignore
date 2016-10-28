@@ -1,0 +1,10 @@
+domoticz_exporter
+domoticz_exporter-[0-9.]*_*
+
+# Files
+*~
+
+# Editor swap files
+*.swp
+*.swo
+*.swn
